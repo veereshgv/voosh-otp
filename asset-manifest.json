@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/voosh-otp/static/css/main.d6a0f48c.css",
+    "main.js": "/voosh-otp/static/js/main.2e3e7ca7.js",
+    "static/js/787.b3af23dd.chunk.js": "/voosh-otp/static/js/787.b3af23dd.chunk.js",
+    "static/media/food.jpg": "/voosh-otp/static/media/food.f684fcde0695509f567a.jpg",
+    "index.html": "/voosh-otp/index.html",
+    "main.d6a0f48c.css.map": "/voosh-otp/static/css/main.d6a0f48c.css.map",
+    "main.2e3e7ca7.js.map": "/voosh-otp/static/js/main.2e3e7ca7.js.map",
+    "787.b3af23dd.chunk.js.map": "/voosh-otp/static/js/787.b3af23dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6a0f48c.css",
+    "static/js/main.2e3e7ca7.js"
+  ]
+}
