@@ -128,7 +128,7 @@ function App() {
         </form>
       ) : (
         <div className="signedIn">
-          <h3>User Successfully Sined In !!</h3>
+          <h3>User Successfully Signed In !!</h3>
         </div>
       )}
     </div>
